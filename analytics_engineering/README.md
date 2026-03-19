@@ -1,5 +1,7 @@
 Welcome to your new dbt project!
 
+Goal: Transforming the data loaded in DWH into Analytical Views developing a dbt project.
+
 ### Using the starter project
 
 Try running the following commands:
